@@ -1,0 +1,8 @@
+singularity/*.sif
+ref/
+fastq/
+test/
+*.fastq.gz
+*.fastqsanger.gz
+work/
+.nextflow*
